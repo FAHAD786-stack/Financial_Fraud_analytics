@@ -1,0 +1,11 @@
+{
+    "threshold": 0.19,
+    "target_recall": 0.8,
+    "features": [
+        "step",
+        "type",
+        "amount",
+        "oldbalanceOrg",
+        "oldbalanceDest"
+    ]
+}

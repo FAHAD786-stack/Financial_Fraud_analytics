@@ -1,0 +1,14 @@
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.streamlit/secrets.toml
+data/*.csv
+.ipynb_checkpoints/
+# Large datasets and generated CSV files
+/paysim.csv
+/engineered_features.csv
+/balance_analysis.csv
+/transaction_type_analysis.csv
